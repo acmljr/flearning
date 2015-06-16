@@ -1,0 +1,13 @@
+.form-position {
+	margin: 0 auto;
+	height: 500px;
+	width: 700px;
+	margin-top: 50px;
+	border: 1px solid #999;
+	padding: 30px 30px 30px 20px;
+	border-radius: 3px;
+}
+
+.addCourse-header {
+	margin: 0 auto;
+} 
